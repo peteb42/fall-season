@@ -1,0 +1,21 @@
+{
+  "name": "fall-season",
+  "displayName": "Fall Season",
+  "description": "Be reminded of pumpkins, fallen leaves, and cool breezes.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Fall Season",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Fall Season-color-theme.json"
+      }
+    ]
+  }
+}
